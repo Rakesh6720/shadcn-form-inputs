@@ -1,9 +1,3 @@
-"use client";
-
-import {
-  SyntheticEvent,
-  useState,
-} from "react";
 import HTMLDropdown from "./_components/HTMLDropdown";
 import ShadCnDropdown from "./_components/ShadCnDropdown";
 
